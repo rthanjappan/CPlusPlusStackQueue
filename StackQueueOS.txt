@@ -1,0 +1,54 @@
+Stacks and Queue Output Spec
+
+Static Stack Template
+----------------------
+Please enter the size of the stack :##
+
+Enter the value#1 to add to the stack :##
+Enter the value#2 to add to the stack :##
+
+The value popped is :##
+The next value popped is :##
+
+The stack is empty now...
+
+Dynamic Stack Template
+----------------------
+Enter the value#1 to add to the stack :##
+Enter the value#2 to add to the stack :##
+
+The value popped is :##
+The next value popped is :##
+
+The stack is empty now...
+
+Static Queue Template
+----------------------
+Please enter the size of the queue :##
+
+Enter the value#1 to add to the queue :##
+Enter the value#2 to add to the queue :##
+
+The value popped is :##
+The next value popped is :##
+
+The queue is empty now...
+
+Inventory Bin Stack
+--------------------
+Menu
+----
+1.add a part to the Inventory
+2.take a part from the Inventory
+
+Please enter a choice:#
+
+Please enter the serial number :####
+Please enter the date of manufacture : mm/dd/yyyy
+Please enter the lot number :####
+
+
+The Inventory is:
+serial number : ####
+date of manufacture :mm/dd/yyyy
+lot number : ####
